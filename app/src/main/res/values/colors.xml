@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0000FF</color>
+    <color name="bgColor">#3185FC</color>
+    <color name="colorPrimaryDark">#0000FF</color>
+    <color name="stateColor">#FFC107</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="fragment_color">#FDFFFC</color>
+    <color name="fragment_two_color">#FFE1A8</color>
+    <color name="fragment_three_color">#EE4B6A</color>
+    <color name="activity_color">#79FDFE</color>
+    <color name="btn_color">#000000</color>
+</resources>

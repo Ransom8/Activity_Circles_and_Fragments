@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week Three Task</string>
+    <string name="state_text">Welcome</string>
+    <string name="orientation_text">Portrait</string>
+    <string name="fragment_btn_text">Click Here For Fragments</string>
+    <string name="add_fragment">Add A Fragment</string>
+    <string name="remove_fragment">Remove Fragment</string>
+</resources>
